@@ -1,3 +1,3 @@
 # ArduinoDemos
 ## 1. UltrasonicFan
-		updated on 2018.6.8
+firstly updated on 2018.6.8
