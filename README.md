@@ -1,5 +1,7 @@
 # Contents
 ## 1. UltrasonicFan
-* firstly updated on 2018.6.8
+* updated on 2018.6.8
 ## 2. TwinkleTwinkleLittleStar
-* firstly updated on 2018.7.25
+* updated on 2018.7.25
+## 3. F..k
+* updated on 2018.7.27
